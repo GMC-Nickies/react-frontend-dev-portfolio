@@ -1,0 +1,118 @@
+{
+    "basic_info": {
+      "name": "Gerasimos Copoulos",
+      "titles": [ "Fullstack Developer", "Software Engineer", "Mobile App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/GMC-Nickies",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "email",
+          "url": "mailto:gerasimoscopoulos@gmail.com",
+          "class": "fal fa-envelope"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "node.js",
+          "class": "devicon-nodejs-plain",
+          "level": "70"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "70"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "70"
+        },
+        {
+          "name": "Numpy",
+          "class": "devicon-numpy-plain",
+          "level": "70"
+        },
+        {
+          "name": "Pandas",
+          "class": "devicon-pandas-plain",
+          "level": "70"
+        },
+        {
+          "name": "TensorFlow",
+          "class": "devicon-tensorflow-original",
+          "level": "70"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+         {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "70"
+        },
+        {
+          "name": "Redux",
+          "class": "devicon-redux-plain",
+          "level": "70"
+        },
+        {
+          "name": "JQuery",
+          "class": "devicon-jquery-plain",
+          "level": "70"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "70"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-plain",
+          "level": "70"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "70"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }

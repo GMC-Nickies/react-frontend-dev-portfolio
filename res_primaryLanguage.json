@@ -1,0 +1,183 @@
+{
+    "basic_info": {
+      "description_header": "Welcome",
+      "description": "👋 I'm Gerasimos Copoulos, a young & eager software professional. I'm experienced with in-demand back-end languages like Python and node.js, as well as front-end frameworks like React (including Redux & React Native). Please take a look below for an overview of my recent projects and my highlighted skills. Thank you!",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Local Gems",
+        "startDate": "20202/2023",
+        "description": "A mobile app made for finding cheap but highly-rated local restaurants, built in React Native and deployed to Expo (currently working on deploying to the Google App Store). Featuring a professional-grade user experience, an account authentication system, and integration with the Google Maps API and Google Cloud services.",
+        "images": [
+          "images/portfolio/LocalGems1.png",
+          "images/portfolio/LocalGems2.png",
+          "images/portfolio/LocalGems3.png",
+          "images/portfolio/LocalGems4.png",
+          "images/portfolio/LocalGems5.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "BoldlyGo Space Flights",
+        "startDate": "2022",
+        "description": "Sci-fi themed educational website allowing the user to view upcoming and previous SpaceX launches, as well as plan mock launches of their own. Back-end built in node.js, utilizing MongoDB as a NoSQL database, with a front-end built with React (using the Arwes framework for sci-fi UIs) -- deployed via AWS using a Docker container.",
+        "images": [
+          "images/portfolio/BoldlyGo1.png",
+          "images/portfolio/BoldlyGo2.png"
+        ],
+        "url": "http://BoldlyGoSpaceFlights.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "React/Redux Web Apps",
+        "startDate": "2023",
+        "description": "A few miscellaneous web apps I built, mostly for personal use. Includes: A music recommendation sampler, a poker hand simulator, and an ESP guessing test to demonstrate principles of probability.",
+        "images": [
+          "images/portfolio/WebApps1.png",
+          "images/portfolio/WebApps2.png"
+        ],
+        "url": "https://gmc-nickies.github.io/gmc-webapps/",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "TES Modding projects",
+        "startDate": "2020-2022",
+        "description": "I mod RPG games in The Elder Scrolls franchise as a hobby -- my mods are unique in their frequent integration of external scripts written in python and node.js, and have received viral media attention (1m+ total views) several times for their creativity and technicality. For more information, google 'Nickies Pizzablivion' and 'Nickies Cross-Game Invader Add-on.'",
+        "images": [
+          "images/portfolio/TES1.jpg",
+          "images/portfolio/TES2.jpg"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+       {
+        "title": "UFC Bout Predictor (ML)",
+        "startDate": "2021",
+        "description": "A ML jupyter notebook that uses scraped UFC fighter data to make predictions about the outcomes of UFC fights. Uses DNNs and manual feature selection.",
+        "images": [
+          "images/portfolio/UFC1.png"
+        ],
+        "url": "https://github.com/GMC-Nickies/MMAPrediction",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Java Mock MVC Banking System",
+        "startDate": "2019",
+        "description": "A mockup of a banking system in Java, with Checking and Savings Accounts and standard ATM features like balance checking. Meant to demonstrate Model-View-Controller design pattern and uses JUnit for testing.",
+        "images": [
+          "images/portfolio/Java1.png",
+          "images/portfolio/Java2.png"
+        ],
+        "url": "https://github.com/GMC-Nickies/JavaMVCBanking",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "DefOpenSource",
+        "title": "Front-End Developer",
+        "years": "10.2019 - present",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "Serros Solutions",
+        "title": "Intern",
+        "years": "01.2018 - 09.2019",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }
