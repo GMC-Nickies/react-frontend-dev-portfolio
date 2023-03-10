@@ -21,7 +21,7 @@
           "images/portfolio/LocalGems4.png",
           "images/portfolio/LocalGems5.png"
         ],
-        "url": "",
+        "url": "https://expo.dev/@gmcnickies/LocalGems",
         "technologies": [
           {
             "class": "devicon-react-plain",
